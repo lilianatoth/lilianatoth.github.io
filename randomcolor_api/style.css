@@ -111,4 +111,6 @@ body {
 footer {
     background-image: url('rainbow.jpg');
     margin-top: 15px;
+    position:fixed; bottom: 0;
+    position: fixed; left: 0; right: 0;
 }
