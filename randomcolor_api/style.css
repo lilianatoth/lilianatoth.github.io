@@ -1,0 +1,114 @@
+body {
+    background-color: #ebe2d5;
+    color: black;
+    text-align: center;
+    margin-top: 3px;
+    margin-bottom: 0px;
+    margin-right: 0%;
+    margin-left: 0%;
+}
+
+#gomb {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 105px;
+    padding-right: 105px;
+    text-align: center;
+    border-radius: 7ch;
+    font-size: x-large;
+}
+
+#kgomb {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 50px;
+    padding-right: 50px;
+    text-align: center;
+    border-radius: 7ch;
+    font-size: x-large;
+    background-color: cornflowerblue;
+    color: aliceblue;
+    border-color: rgb(66, 108, 186);
+}
+
+#rgomb {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 50px;
+    padding-right: 50px;
+    text-align: center;
+    border-radius: 7ch;
+    font-size: x-large;
+    background-color:crimson;
+    color:rgb(255, 220, 220);
+    border-color: rgb(143, 36, 36);
+}
+
+#ygomb {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 50px;
+    padding-right: 50px;
+    text-align: center;
+    border-radius: 7ch;
+    font-size: x-large;
+    background-color:gold;
+    color:rgb(255, 252, 237);
+    border-color: goldenrod;
+}
+
+#ggomb {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 50px;
+    padding-right: 50px;
+    text-align: center;
+    border-radius: 7ch;
+    font-size: x-large;
+    background-color:forestgreen;
+    color:rgb(187, 223, 187);
+    border-color:darkgreen;
+}
+
+#pgomb {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 50px;
+    padding-right: 50px;
+    text-align: center;
+    border-radius: 7ch;
+    font-size: x-large;
+    background-color:blueviolet;
+    color:rgb(237, 217, 255);
+    border-color:rgb(104, 28, 142);
+}
+
+#pigomb {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 50px;
+    padding-right: 50px;
+    text-align: center;
+    border-radius: 7ch;
+    font-size: x-large;
+    background-color:rgb(255, 76, 231);
+    color:rgb(255, 219, 249);
+    border-color:rgb(228, 28, 171);
+}
+
+.color {
+    font-size:x-large;
+}
+
+#square {
+    width: 300px;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(255, 255, 255);
+}
+
+footer {
+    background-image: url('rainbow.jpg');
+    margin-top: 15px;
+}
