@@ -5,7 +5,7 @@ async function getch(url){
 }
 
 async function new_color(){
-    console.log("megnyomódtam");
+    //console.log("megnyomódtam");
     let data = await getch("https://x-colors.yurace.pro/api/random");
     console.log(data);
 
@@ -17,9 +17,9 @@ async function new_color(){
 }
 
 async function new_specific_color(color){
-    console.log("New Color: " + color);
+    //console.log("New Color: " + color);
     let data = await getch("https://x-colors.yurace.pro/api/random/" + color);
-    console.log("Got color: " + data);
+    //console.log("Got color: " + data);
 
     hex.innerHTML = data['hex'];
     rgb.innerHTML = data['rgb'];
